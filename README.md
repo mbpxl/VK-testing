@@ -8,4 +8,4 @@
 
 # Getting Started
 
-Go to the `/test` directory, and run the `npm test` command in the terminal
+Go to the `/tests` directory, and run the `npm test` command in the terminal
